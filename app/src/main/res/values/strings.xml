@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Retrofit Using Java</string>
+
+    <!-- SignInActivity Validation -->
+    <string name="email_message_one">Please enter email !</string>
+    <string name="email_message_two">Please enter valid email !</string>
+    <string name="password_message_one">Please enter password !</string>
+    <string name="password_message_two">Password length should not be less than 8 characters !</string>
+    <string name="password_message_three">Password length should not be greater than 20 characters !</string>
+    <string name="password_message_four">Password must contain 1 or more Capital letter !</string>
+    <string name="password_message_five">Password must contain 1 or more Small letter !</string>
+    <string name="password_message_six">Password must contain 1 or more digit characters !</string>
+    <string name="password_message_seven">Password must contain 1 or more special characters !</string>
+    <string name="password_message_eight">white spaces don’t allowed !</string>
+
+    <!-- SignInActivity Failed -->
+    <string name="sign_in_failed_title">Sign In Failed</string>
+    <string name="sign_in_failed_message_one">The Email or Password you entered is incorrect</string>
+
+    <!-- SignInActivity Toast -->
+    <string name="signin_success">You have successfully Sign-In</string>
+
+    <!-- SignUpActivity Validation -->
+    <string name="picture_message_one">Please select profile picture !</string>
+    <string name="first_name_message_one">Please enter your first name !</string>
+    <string name="last_name_message_one">Please enter your last name !</string>
+    <string name="gender_message_one">Please select gender !</string>
+    <string name="phone_number_message_one">Please enter country code !</string>
+    <string name="phone_number_message_two">Please enter your phone number !</string>
+    <string name="phone_number_message_three">Please enter valid phone number !</string>
+    <string name="confirm_password_message_one">Please enter confirm password !</string>
+    <string name="confirm_password_message_two">Confirm password length should not be less than 8 characters !</string>
+    <string name="confirm_password_message_three">Password and Confirm password not match !</string>
+    <string name="accept_term_and_condition_message">Please accept Terms &#38; Conditions</string>
+
+    <!-- SignUpActivity Failed -->
+    <string name="sign_up_failed_title">Sign Up Failed</string>
+    <string name="sign_up_failed_message_one">Sorry, Email is already exists, use another Email</string>
+    <string name="sign_up_failed_message_two">Sorry, Phone number is already exists, use another Phone number</string>
+
+    <!-- SignUpActivity Toast -->
+    <string name="signup_success">You have successfully Sign-Up</string>
+</resources>
